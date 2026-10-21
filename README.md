@@ -12,11 +12,11 @@
   <thead>
     <tr>
       <th align="left"></th>
-      <th align="left">Day 1<br><sub>The Blueprint</sub></th>
-      <th align="left">Day 2<br><sub>The Demo</sub></th>
-      <th align="left">Day 3<br><sub>The Battle Test</sub></th>
-      <th align="left">Day 4<br><sub>Build Day</sub></th>
-      <th align="left">Day 5<br><sub>Demo Day</sub></th>
+      <th align="left">Day 1</th>
+      <th align="left">Day 2</th>
+      <th align="left">Day 3</th>
+      <th align="left">Day 4</th>
+      <th align="left">Day 5</th>
     </tr>
   </thead>
   <tbody>
