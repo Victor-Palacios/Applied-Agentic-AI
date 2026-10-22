@@ -58,7 +58,11 @@
         <b>3.2</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
         <br><sub><code>Agents</code> <code>Nvidia API</code></sub>
       </td>
-      <td><b>Project Build</b></td>
+      <td>
+        <b>4.2</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
+        <br><br>
+        <b>Project Build</b>
+      </td>
       <td><b>Project Demo</b></td>
     </tr>
     <tr>
