@@ -33,7 +33,7 @@
         <br><sub><code>RAG</code> <code>Fine-tuning</code> <code>Agents</code></sub>
       </td>
       <td>
-        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing the Attack</a>
+        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><sub><code>Agents</code></sub>
       </td>
       <td>
