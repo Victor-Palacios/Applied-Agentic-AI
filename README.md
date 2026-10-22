@@ -33,7 +33,9 @@
         <br><sub><code>RAG</code> <code>Fine-tuning</code> <code>Agents</code></sub>
       </td>
       <td>
-        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
+        <br><br>
+        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><sub><code>Agents</code></sub>
       </td>
       <td>
@@ -55,7 +57,7 @@
         <br><sub><code>RAG</code> <code>Claude Projects</code></sub>
       </td>
       <td>
-        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
+        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
         <br><sub><code>Agents</code> <code>Nvidia API</code></sub>
       </td>
       <td>
@@ -82,7 +84,7 @@
         <br><sub><code>GitHub Pages</code> <code>Cloudflare</code> <code>Supabase</code></sub>
       </td>
       <td>
-        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
+        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
         <br><sub><code>Unlimited Routines</code> <code>GitHub</code></sub>
       </td>
       <td><b>Project Build</b></td>
