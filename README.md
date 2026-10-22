@@ -37,8 +37,7 @@
         <br><sub><code>Agents</code></sub>
       </td>
       <td>
-        <b>4.1</b> Agentic Patterns
-        <br><sub>Slides coming soon</sub>
+        <b>4.1</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
       </td>
       <td><b>Project Demo</b></td>
     </tr>
