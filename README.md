@@ -57,7 +57,9 @@
         <b>1.2</b> <a href="https://docs.google.com/presentation/d/19F_dyS1gyARTKDC4A7VhXfAqa37Ww3J-jo4HBQzW1LM/edit">Precise Problem Statement</a>
         <br><sub><code>Prompt Engineering</code> <code>Claude Projects</code></sub>
       </td>
-      <td></td>
+      <td>
+        <b>2.3</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
+      </td>
       <td>
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
         <br><sub><code>Agents</code> <code>Nvidia API</code></sub>
@@ -78,8 +80,6 @@
         <br><sub><code>Claude Cowork</code> <code>GitHub</code></sub>
       </td>
       <td>
-        <b>2.3</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
-        <br><br>
         <b>2.4</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">APIs and Keys</a>
         <br><sub><code>GitHub Pages</code> <code>Cloudflare</code> <code>Supabase</code></sub>
         <br><br>
