@@ -33,9 +33,9 @@
         <br><sub><code>RAG</code> <code>Fine-tuning</code> <code>Agents</code></sub>
       </td>
       <td>
-        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
+        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
         <br><br>
-        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
+        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
         <br><br>
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><sub><code>Agents</code></sub>
