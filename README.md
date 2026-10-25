@@ -31,6 +31,9 @@
       <td>
         <b>2.1</b> <a href="https://docs.google.com/presentation/d/1prwOHOnUWwCDr5wNL_hinIvqRbbQMv50v4qUZgOGVKg/edit">Advanced Applied AI</a>
         <br><sub><code>RAG</code> <code>Fine-tuning</code> <code>Agents</code></sub>
+        <br><br>
+        <b>2.2</b> <a href="https://docs.google.com/presentation/d/1BhU0KXCwd-4_aiJi6UIg--O-vKpCmtlLYq7qtKU9KWA/edit">RAG in Claude Projects</a>
+        <br><sub><code>RAG</code> <code>Claude Projects</code></sub>
       </td>
       <td>
         <b>3.1</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
@@ -40,6 +43,8 @@
       </td>
       <td>
         <b>4.1</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
+        <br><br>
+        <b>4.2</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
       </td>
       <td><b>Project Demo</b></td>
     </tr>
@@ -52,19 +57,12 @@
         <b>1.2</b> <a href="https://docs.google.com/presentation/d/19F_dyS1gyARTKDC4A7VhXfAqa37Ww3J-jo4HBQzW1LM/edit">Precise Problem Statement</a>
         <br><sub><code>Prompt Engineering</code> <code>Claude Projects</code></sub>
       </td>
-      <td>
-        <b>2.2</b> <a href="https://docs.google.com/presentation/d/1BhU0KXCwd-4_aiJi6UIg--O-vKpCmtlLYq7qtKU9KWA/edit">RAG in Claude Projects</a>
-        <br><sub><code>RAG</code> <code>Claude Projects</code></sub>
-      </td>
+      <td></td>
       <td>
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
         <br><sub><code>Agents</code> <code>Nvidia API</code></sub>
       </td>
-      <td>
-        <b>4.2</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
-        <br><br>
-        <b>Project Build</b>
-      </td>
+      <td><b>Project Build</b></td>
       <td><b>Project Demo</b></td>
     </tr>
     <tr>
