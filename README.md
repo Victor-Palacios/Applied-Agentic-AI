@@ -50,7 +50,7 @@
     <tr>
       <td><b>Hour 2</b></td>
       <td>
-        <b>1.2</b> <a href="https://docs.google.com/presentation/d/19F_dyS1gyARTKDC4A7VhXfAqa37Ww3J-jo4HBQzW1LM/edit">Precise Problem Statement</a>
+        <b>1.2</b> <a href="https://docs.google.com/presentation/d/19F_dyS1gyARTKDC4A7VhXfAqa37Ww3J-jo4HBQzW1LM/edit">Adversarial AI &amp; Claude Projects</a>
       </td>
       <td>
         <b>2.3</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
