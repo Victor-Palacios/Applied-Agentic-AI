@@ -69,7 +69,7 @@
       <td>
         <b>1.3</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
         <br><br>
-        <b>1.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Dividing the Work</a>
+        <b>1.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
       </td>
       <td>
         <b>2.4</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">APIs and Keys</a>
