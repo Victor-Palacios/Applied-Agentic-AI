@@ -33,11 +33,9 @@
         <br><sub><code>RAG</code> <code>Fine-tuning</code> <code>Agents</code></sub>
       </td>
       <td>
-        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
+        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
         <br><br>
-        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
-        <br><br>
-        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><sub><code>Agents</code></sub>
       </td>
       <td>
@@ -59,7 +57,7 @@
         <br><sub><code>RAG</code> <code>Claude Projects</code></sub>
       </td>
       <td>
-        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
+        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
         <br><sub><code>Agents</code> <code>Nvidia API</code></sub>
       </td>
       <td>
@@ -86,14 +84,18 @@
         <br><br>
         <b>2.4</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">APIs and Keys</a>
         <br><sub><code>GitHub Pages</code> <code>Cloudflare</code> <code>Supabase</code></sub>
+        <br><br>
+        <b>2.5</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
+        <br><br>
+        <b>2.6</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
       </td>
       <td>
-        <b>3.5</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
+        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
         <br><sub><code>Unlimited Routines</code> <code>GitHub</code></sub>
         <br><br>
-        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
+        <b>3.5</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
         <br><br>
-        <b>3.7</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
+        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
       </td>
       <td><b>Project Build</b></td>
       <td>
