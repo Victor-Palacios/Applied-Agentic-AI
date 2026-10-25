@@ -90,6 +90,8 @@
         <br><sub><code>Unlimited Routines</code> <code>GitHub</code></sub>
         <br><br>
         <b>3.5</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
+        <br><br>
+        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
       </td>
       <td><b>Project Build</b></td>
       <td>
