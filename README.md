@@ -84,7 +84,7 @@
       <td>
         <b>2.3</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
         <br><br>
-        <b>2.4</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Making It Demoable</a>
+        <b>2.4</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">APIs and Keys</a>
         <br><sub><code>GitHub Pages</code> <code>Cloudflare</code> <code>Supabase</code></sub>
       </td>
       <td>
