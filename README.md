@@ -24,13 +24,11 @@
       <td><b>Hour 1</b></td>
       <td>
         <a href="https://docs.google.com/presentation/d/1USdZNSgxWCCTmUhBCkM3ACzpbJMm5JSANJSRRlpRYbs/edit">Course &amp; instructor intro</a>
-        <br><br>
-        <b>1.1</b> <a href="https://docs.google.com/presentation/d/19wvUcRZMfEE5SmdM-PeijmNdScwPlJ28qK2S6z9te_o/edit">Intro to Applied AI</a>
       </td>
       <td>
-        <b>2.1</b> <a href="https://docs.google.com/presentation/d/1prwOHOnUWwCDr5wNL_hinIvqRbbQMv50v4qUZgOGVKg/edit">Advanced Applied AI</a>
+        <b>2.1</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
         <br><br>
-        <b>2.2</b> <a href="https://docs.google.com/presentation/d/1BhU0KXCwd-4_aiJi6UIg--O-vKpCmtlLYq7qtKU9KWA/edit">RAG in Claude Projects</a>
+        <b>2.2</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
       </td>
       <td>
         <b>3.1</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
@@ -50,10 +48,12 @@
     <tr>
       <td><b>Hour 2</b></td>
       <td>
-        <b>1.2</b> <a href="https://docs.google.com/presentation/d/19F_dyS1gyARTKDC4A7VhXfAqa37Ww3J-jo4HBQzW1LM/edit">Adversarial AI &amp; Claude Projects</a>
+        <b>1.1</b> <a href="https://docs.google.com/presentation/d/19wvUcRZMfEE5SmdM-PeijmNdScwPlJ28qK2S6z9te_o/edit">Intro to Applied AI</a>
       </td>
       <td>
-        <b>2.3</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
+        <b>2.3</b> <a href="https://docs.google.com/presentation/d/1prwOHOnUWwCDr5wNL_hinIvqRbbQMv50v4qUZgOGVKg/edit">Advanced Applied AI</a>
+        <br><br>
+        <b>2.4</b> <a href="https://docs.google.com/presentation/d/1BhU0KXCwd-4_aiJi6UIg--O-vKpCmtlLYq7qtKU9KWA/edit">RAG in Claude Projects</a>
       </td>
       <td>
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
@@ -67,16 +67,16 @@
     <tr>
       <td><b>Hour 3</b></td>
       <td>
-        <b>1.3</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
-        <br><br>
-        <b>1.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
+        <b>1.2</b> <a href="https://docs.google.com/presentation/d/19F_dyS1gyARTKDC4A7VhXfAqa37Ww3J-jo4HBQzW1LM/edit">Adversarial AI &amp; Claude Projects</a>
       </td>
       <td>
-        <b>2.4</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">APIs and Keys</a>
+        <b>2.5</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
         <br><br>
-        <b>2.5</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
+        <b>2.6</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">APIs and Keys</a>
         <br><br>
-        <b>2.6</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
+        <b>2.7</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
+        <br><br>
+        <b>2.8</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
       </td>
       <td>
         <b>3.4</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
