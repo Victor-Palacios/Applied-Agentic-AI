@@ -100,7 +100,7 @@
       <td><b>Hour 4</b></td>
       <td>
         <b>Consultation hours</b>
-        <br><sub>Create accounts: <a href="https://github.com/">GitHub</a> · <a href="https://supabase.com/">Supabase</a> · <a href="https://www.cloudflare.com/">Cloudflare</a> · <a href="https://build.nvidia.com/">Nvidia</a></sub>
+        <br><sub>Create accounts: <a href="https://github.com/">GitHub</a> · <a href="https://supabase.com/">Supabase</a> · <a href="https://www.cloudflare.com/">Cloudflare</a> · <a href="https://build.nvidia.com/">Nvidia</a>, Download: <a href="https://claude.ai/download">Claude Desktop</a></sub>
       </td>
       <td><b>Consultation hours</b></td>
       <td><b>Consultation hours</b></td>
