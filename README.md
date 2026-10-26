@@ -26,9 +26,9 @@
         <a href="https://docs.google.com/presentation/d/1USdZNSgxWCCTmUhBCkM3ACzpbJMm5JSANJSRRlpRYbs/edit">Course &amp; instructor intro</a>
       </td>
       <td>
-        <b>2.1</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
+        <b>2.1</b> <a href="https://docs.google.com/presentation/d/1prwOHOnUWwCDr5wNL_hinIvqRbbQMv50v4qUZgOGVKg/edit">Advanced Applied AI</a>
         <br><br>
-        <b>2.2</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
+        <b>2.2</b> <a href="https://docs.google.com/presentation/d/1BhU0KXCwd-4_aiJi6UIg--O-vKpCmtlLYq7qtKU9KWA/edit">RAG in Claude Projects</a>
       </td>
       <td>
         <b>3.1</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
@@ -51,9 +51,9 @@
         <b>1.1</b> <a href="https://docs.google.com/presentation/d/19wvUcRZMfEE5SmdM-PeijmNdScwPlJ28qK2S6z9te_o/edit">Intro to Applied AI</a>
       </td>
       <td>
-        <b>2.3</b> <a href="https://docs.google.com/presentation/d/1prwOHOnUWwCDr5wNL_hinIvqRbbQMv50v4qUZgOGVKg/edit">Advanced Applied AI</a>
+        <b>2.3</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
         <br><br>
-        <b>2.4</b> <a href="https://docs.google.com/presentation/d/1BhU0KXCwd-4_aiJi6UIg--O-vKpCmtlLYq7qtKU9KWA/edit">RAG in Claude Projects</a>
+        <b>2.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
       </td>
       <td>
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
