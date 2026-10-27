@@ -89,6 +89,8 @@
       <td>
         <b>5.1</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
         <br><br>
+        <b>5.2</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
+        <br><br>
         Post-Course Survey
         <br><sub>About 2 min · link coming soon</sub>
       </td>
