@@ -72,7 +72,7 @@
       <td>
         <b>2.5</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
         <br><br>
-        <b>2.6</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">APIs and Keys</a>
+        <b>2.6</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Keys and APIs</a>
         <br><br>
         <b>2.7</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
         <br><br>
