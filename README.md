@@ -59,14 +59,20 @@
         <b>3.4</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
         <br><br>
         <b>3.5</b> <a href="https://docs.google.com/presentation/d/14VJB9ZB_yktkFkhanQmRQyzCd2L2POE2Du5XUMNVBkU/edit">Agent Harnesses</a>
-        <br><br>
-        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
-        <br><br>
-        <b>3.7</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
-        <br><br>
-        <b>3.8</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
       </td>
-      <td><b>Project Build</b></td>
+      <td>
+        <b>4.3</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
+        <br><br>
+        <b>4.4</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <br><br>
+        <b>4.5</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
+        <br><br>
+        <b>4.6</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
+        <br><br>
+        <b>4.7</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
+        <br><br>
+        <b>Project Build</b>
+      </td>
       <td><b>Project Demo</b></td>
     </tr>
     <tr>
@@ -81,11 +87,7 @@
         <b>2.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
       </td>
       <td>
-        <b>3.9</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
-        <br><br>
-        <b>3.10</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
-        <br><br>
-        <b>3.11</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
+        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
       </td>
       <td><b>Project Build</b></td>
       <td>
