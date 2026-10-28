@@ -32,10 +32,6 @@
         <b>3.1</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
         <br><br>
         <b>3.2</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Keys and APIs</a>
-        <br><br>
-        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
-        <br><br>
-        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
       </td>
       <td>
         <b>4.1</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
@@ -58,11 +54,17 @@
         <b>2.3</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
       </td>
       <td>
-        <b>3.5</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
+        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
         <br><br>
-        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
         <br><br>
-        <b>3.7</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
+        <b>3.5</b> <a href="https://docs.google.com/presentation/d/14VJB9ZB_yktkFkhanQmRQyzCd2L2POE2Du5XUMNVBkU/edit">Agent Harnesses</a>
+        <br><br>
+        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
+        <br><br>
+        <b>3.7</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <br><br>
+        <b>3.8</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
       </td>
       <td><b>Project Build</b></td>
       <td><b>Project Demo</b></td>
@@ -79,11 +81,11 @@
         <b>2.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
       </td>
       <td>
-        <b>3.8</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
+        <b>3.9</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
         <br><br>
-        <b>3.9</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
+        <b>3.10</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
         <br><br>
-        <b>3.10</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
+        <b>3.11</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
       </td>
       <td><b>Project Build</b></td>
       <td>
