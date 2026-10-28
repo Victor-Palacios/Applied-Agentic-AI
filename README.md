@@ -85,7 +85,7 @@
       <td>
         <b>3.5</b> <a href="https://docs.google.com/presentation/d/14VJB9ZB_yktkFkhanQmRQyzCd2L2POE2Du5XUMNVBkU/edit">Agent Harnesses</a>
         <br><br>
-        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1ZUmBB5F5iq1YqJOndUojS8OXfSKJuu4aGTkQ8oFwtho/edit">Skill.md</a>
+        <b>3.6</b> <a href="https://docs.google.com/presentation/d/1524qahBoVlMhlgaSnDRDx-RqeZYzVStwpPBtS_Go3rU/edit">MD Files</a>
       </td>
       <td><b>Project Build</b></td>
       <td>
