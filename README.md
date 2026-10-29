@@ -90,6 +90,8 @@
         <br><br>
         <a href="https://usfca.qualtrics.com/jfe/form/SV_780rgD2bWlg70ai">Post-Course Survey</a>
         <br><sub>About 2 min</sub>
+        <br><br>
+        <b>Project Build</b>
       </td>
       <td>
         <b>5.2</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
@@ -112,7 +114,7 @@
       </td>
       <td><b>Consultation hours</b></td>
       <td><b>Consultation hours</b></td>
-      <td><b>Project Build</b></td>
+      <td><b>Consultation hours</b></td>
       <td><b>Consultation hours</b></td>
     </tr>
   </tbody>
