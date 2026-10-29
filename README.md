@@ -85,8 +85,6 @@
         <b>4.8</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
         <br><br>
         <b>4.9</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
-        <br><br>
-        <b>Project Build</b>
       </td>
       <td>
         <b>5.1</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
@@ -112,7 +110,7 @@
       </td>
       <td><b>Consultation hours</b></td>
       <td><b>Consultation hours</b></td>
-      <td><b>Consultation hours</b></td>
+      <td><b>Project Build</b></td>
       <td><b>Consultation hours</b></td>
     </tr>
   </tbody>
