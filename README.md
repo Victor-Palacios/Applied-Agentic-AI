@@ -40,7 +40,11 @@
         <br><br>
         <b>4.4</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
       </td>
-      <td><b>Project Demo</b></td>
+      <td>
+        <b>5.1</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <br><br>
+        <b>Project Demo</b>
+      </td>
     </tr>
     <tr>
       <td colspan="6" align="center"><sub>Break · 5 min</sub></td>
@@ -88,8 +92,6 @@
         <br><sub>About 2 min</sub>
       </td>
       <td>
-        <b>5.1</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
-        <br><br>
         <b>5.2</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
         <br><br>
         <b>5.3</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
