@@ -40,7 +40,13 @@
         <br><br>
         <b>4.4</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
       </td>
-      <td><b>Project Demo</b></td>
+      <td>
+        <b>5.1</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
+        <br><br>
+        <b>5.2</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
+        <br><br>
+        <b>Project Demo</b>
+      </td>
     </tr>
     <tr>
       <td colspan="6" align="center"><sub>Break · 5 min</sub></td>
@@ -59,13 +65,11 @@
         <b>3.2</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Keys and APIs</a>
       </td>
       <td>
-        <b>4.5</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
+        <b>4.5</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
         <br><br>
-        <b>4.6</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
+        <b>4.6</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
         <br><br>
-        <b>4.7</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
-        <br><br>
-        <b>4.8</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <b>4.7</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
       </td>
       <td><b>Project Demo</b></td>
     </tr>
@@ -84,18 +88,16 @@
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
       </td>
       <td>
-        <b>4.9</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Peer Red-Team Round</a>
+        <b>4.8</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
         <br><br>
-        <b>4.10</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Hardening &amp; Handoff</a>
-        <br><br>
-        <b>4.11</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
+        <b>4.9</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><br>
         <b>Project Build</b>
       </td>
       <td>
-        <b>5.1</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
+        <b>5.3</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
         <br><br>
-        <b>5.2</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
+        <b>5.4</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
         <br><br>
         Post-Course Survey
         <br><sub>About 2 min · link coming soon</sub>
