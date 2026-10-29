@@ -86,8 +86,8 @@
         <br><br>
         <b>4.9</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><br>
-        Post-Course Survey
-        <br><sub>About 2 min · link coming soon</sub>
+        <a href="https://usfca.qualtrics.com/jfe/form/SV_780rgD2bWlg70ai">Post-Course Survey</a>
+        <br><sub>About 2 min</sub>
       </td>
       <td>
         <b>5.1</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
