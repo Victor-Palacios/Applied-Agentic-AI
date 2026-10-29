@@ -37,8 +37,6 @@
         <b>4.2</b> <a href="https://docs.google.com/presentation/d/14VJB9ZB_yktkFkhanQmRQyzCd2L2POE2Du5XUMNVBkU/edit">Agent Harnesses</a>
         <br><br>
         <b>4.3</b> <a href="https://docs.google.com/presentation/d/1524qahBoVlMhlgaSnDRDx-RqeZYzVStwpPBtS_Go3rU/edit">MD Files</a>
-        <br><br>
-        <b>4.4</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
       </td>
       <td>
         <b>5.1</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
@@ -63,11 +61,11 @@
         <b>3.2</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Keys and APIs</a>
       </td>
       <td>
+        <b>4.4</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
+        <br><br>
         <b>4.5</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
         <br><br>
         <b>4.6</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
-        <br><br>
-        <b>4.7</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
       </td>
       <td><b>Project Demo</b></td>
     </tr>
@@ -86,6 +84,8 @@
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
       </td>
       <td>
+        <b>4.7</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
+        <br><br>
         <b>4.8</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
         <br><br>
         <a href="https://usfca.qualtrics.com/jfe/form/SV_780rgD2bWlg70ai">Post-Course Survey</a>
