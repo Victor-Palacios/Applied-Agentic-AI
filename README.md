@@ -91,7 +91,7 @@
         <a href="https://usfca.qualtrics.com/jfe/form/SV_780rgD2bWlg70ai">Post-Course Survey</a>
         <br><sub>About 2 min</sub>
         <br><br>
-        <b>Project Build</b>
+        <b><a href="https://docs.google.com/document/d/1F4v_K3x2RPN0_KIPkGAXHRFB4IJSnziCvT_NEWFCG6U/edit">Project Build</a></b>
       </td>
       <td>
         <b>5.2</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
