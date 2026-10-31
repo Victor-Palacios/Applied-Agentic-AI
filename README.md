@@ -41,7 +41,7 @@
       <td><b>Project Demo</b></td>
     </tr>
     <tr>
-      <td colspan="6" align="center"><sub>Break · 5 min</sub></td>
+      <td colspan="6" align="center"><sub>Break · 10 min</sub></td>
     </tr>
     <tr>
       <td><b>Hour 2</b></td>
@@ -72,7 +72,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="6" align="center"><sub>Break · 5 min</sub></td>
+      <td colspan="6" align="center"><sub>Break · 10 min</sub></td>
     </tr>
     <tr>
       <td><b>Hour 3</b></td>
@@ -104,7 +104,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="6" align="center"><sub>Break · 5 min</sub></td>
+      <td colspan="6" align="center"><sub>Break · 10 min</sub></td>
     </tr>
     <tr>
       <td><b>Hour 4</b></td>
