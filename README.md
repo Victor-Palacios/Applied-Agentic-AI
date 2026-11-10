@@ -54,7 +54,7 @@
         <b>2.3</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
       </td>
       <td>
-        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Keys and APIs</a>
+        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Keys, APIs, Claude Code</a>
       </td>
       <td>
         <b>4.4</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
