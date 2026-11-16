@@ -29,7 +29,9 @@
         <b>2.1</b> <a href="https://docs.google.com/presentation/d/1prwOHOnUWwCDr5wNL_hinIvqRbbQMv50v4qUZgOGVKg/edit">Advanced Applied AI</a>
       </td>
       <td>
-        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
+        <b>3.1</b> <a href="https://docs.google.com/presentation/d/1Uh03aRlpdp-zKUbhZIyXmXz2-Lrut3LdRYRhCCSGe4Q/edit">Claude Code and Secrets</a>
+        <br><br>
+        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1k-2SGH1wW9Hi3lYpznl93LaWSuIj0Abj8jo-kJr25p4/edit">GitHub</a>
       </td>
       <td>
         <b>4.1</b> <a href="https://docs.google.com/presentation/d/1PQvzDX2851mneMWG32fk8vhEjq_TTHsFlo-VTBcKPTs/edit">Nvidia API</a>
@@ -54,7 +56,9 @@
         <b>2.3</b> <a href="https://docs.google.com/presentation/d/1XAnYqdYMZUFAWrHt89fI3VXio4r9zw1oFZUXLiXNwnk/edit">UML, Claude Artifacts, and Claude Routines</a>
       </td>
       <td>
-        <b>3.2</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Keys, APIs, Claude Code</a>
+        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Claude Code and GitHub</a>
+        <br><br>
+        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1Cd78IZUQcU4p3J41Letuh3Cib01eBaLEh0_xU5uzap8/edit">Cloudflare and GitHub</a>
       </td>
       <td>
         <b>4.4</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
@@ -83,7 +87,9 @@
         <b>2.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
       </td>
       <td>
-        <b>3.3</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
+        <b>3.5</b> <a href="https://docs.google.com/presentation/d/1eNhZlluOh67fiW17L9EUqJHfkRDm00161Rg1GJnr5n4/edit">Supabase &amp; Cloudflare</a>
+        <br><br>
+        <b>3.6</b> <a href="https://docs.google.com/presentation/d/16WoQX2l4Zbb719Lo1aPoRbmcYsBRAKR1QzOg_w1eBx0/edit">Bonus: Video Generation</a>
       </td>
       <td>
         <b>4.7</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
