@@ -58,7 +58,7 @@
       <td>
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Claude Code and GitHub</a>
         <br><br>
-        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1Cd78IZUQcU4p3J41Letuh3Cib01eBaLEh0_xU5uzap8/edit">Cloudflare and GitHub</a>
+        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1Cd78IZUQcU4p3J41Letuh3Cib01eBaLEh0_xU5uzap8/edit">Cloudflare &amp; GitHub &amp; APIs</a>
       </td>
       <td>
         <b>4.4</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
