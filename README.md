@@ -94,7 +94,7 @@
         <b>3.5</b> <a href="https://docs.google.com/presentation/d/16WoQX2l4Zbb719Lo1aPoRbmcYsBRAKR1QzOg_w1eBx0/edit">Bonus: Video Generation</a>
       </td>
       <td>
-        <b>4.5</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Agentic Slides</a>
+        <b>4.5</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Bonus: Agentic Slides</a>
         <br><br>
         <a href="https://usfca.qualtrics.com/jfe/form/SV_780rgD2bWlg70ai">Post-Course Survey</a>
         <br><sub>About 2 min</sub>
