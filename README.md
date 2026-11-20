@@ -63,13 +63,9 @@
       </td>
       <td>
         <b>3.3</b> <a href="https://docs.google.com/presentation/d/1aInhHLjgBKjHpFNCbnnfp34uM3-z0Pi48sHBdV1mOFw/edit">Claude Code and GitHub</a>
-        <br><br>
-        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1Cd78IZUQcU4p3J41Letuh3Cib01eBaLEh0_xU5uzap8/edit">Cloudflare &amp; GitHub &amp; APIs</a>
       </td>
       <td>
         <b>4.3</b> <a href="https://docs.google.com/presentation/d/14VJB9ZB_yktkFkhanQmRQyzCd2L2POE2Du5XUMNVBkU/edit">Agent Harnesses</a>
-        <br><br>
-        <b>4.4</b> <a href="https://docs.google.com/presentation/d/1524qahBoVlMhlgaSnDRDx-RqeZYzVStwpPBtS_Go3rU/edit">MD Files</a>
       </td>
       <td>
         <b>Project Demo</b>
@@ -91,9 +87,13 @@
         <b>2.4</b> <a href="https://docs.google.com/presentation/d/1s2irX2aa0V_Leb1W5GQzD1XZWTZODmYq1ZY83nbSx1Q/edit">Claude Cowork</a>
       </td>
       <td>
+        <b>3.4</b> <a href="https://docs.google.com/presentation/d/1Cd78IZUQcU4p3J41Letuh3Cib01eBaLEh0_xU5uzap8/edit">Cloudflare &amp; GitHub &amp; APIs</a>
+        <br><br>
         <b>3.5</b> <a href="https://docs.google.com/presentation/d/16WoQX2l4Zbb719Lo1aPoRbmcYsBRAKR1QzOg_w1eBx0/edit">Bonus: Video Generation</a>
       </td>
       <td>
+        <b>4.4</b> <a href="https://docs.google.com/presentation/d/1524qahBoVlMhlgaSnDRDx-RqeZYzVStwpPBtS_Go3rU/edit">MD Files</a>
+        <br><br>
         <b>4.5</b> <a href="https://docs.google.com/presentation/d/1jgwJxq1chovw2BDPI62uJjUeivAMogJNleljkgfChXk/edit">Bonus: Agentic Slides</a>
         <br><br>
         <a href="https://usfca.qualtrics.com/jfe/form/SV_780rgD2bWlg70ai">Post-Course Survey</a>
