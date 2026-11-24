@@ -104,13 +104,15 @@
       <td>
         <b>5.6</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Bonus: Agentic Security Threats</a>
         <br><br>
-        <b>5.7</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
+        <b>5.7</b> <a href="https://docs.google.com/presentation/d/1-pEJPZdHcbVbnqVlQNV3neEJ358p0STHvu7hRQWfAjg/edit">Bonus: Cloudflare Security: Vulnerability Harness</a>
         <br><br>
-        <b>5.8</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
+        <b>5.8</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
         <br><br>
-        <b>5.9</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Bonus: Peer Red-Team Round</a>
+        <b>5.9</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
         <br><br>
-        <b>5.10</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Bonus: Hardening &amp; Handoff</a>
+        <b>5.10</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Bonus: Peer Red-Team Round</a>
+        <br><br>
+        <b>5.11</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Bonus: Hardening &amp; Handoff</a>
       </td>
     </tr>
     <tr>
