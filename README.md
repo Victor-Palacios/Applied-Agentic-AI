@@ -70,9 +70,9 @@
       <td>
         <b>Project Demo</b>
         <br><br>
-        <b>5.4</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Agentic Security Threats</a>
+        <b>5.4</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><br>
-        <b>5.5</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <b>5.5</b> <a href="https://docs.google.com/presentation/d/1TR6eNmHhS_T9Vj-f9330r62QNT5ACUvtxq7v7Yug9iU/edit">Cloudflare Security: Mythos</a>
       </td>
     </tr>
     <tr>
@@ -109,6 +109,8 @@
         <b>5.8</b> <a href="https://docs.google.com/presentation/d/1B6ZqXQ1xjsIvMhuyr7J1o6hP7w44bLVgwxSo7-s8YwM/edit">Bonus: Peer Red-Team Round</a>
         <br><br>
         <b>5.9</b> <a href="https://docs.google.com/presentation/d/1UfGGDTFBnVDigmXIXJD9nRgmnU8-Y37HaFWd3JMQUwA/edit">Bonus: Hardening &amp; Handoff</a>
+        <br><br>
+        <b>5.10</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Bonus: Agentic Security Threats</a>
       </td>
     </tr>
     <tr>
