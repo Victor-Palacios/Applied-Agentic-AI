@@ -104,9 +104,9 @@
         <br><br>
         <b>5.6</b> <a href="https://docs.google.com/presentation/d/1-pEJPZdHcbVbnqVlQNV3neEJ358p0STHvu7hRQWfAjg/edit">Bonus: Cloudflare Security: Vulnerability Harness</a>
         <br><br>
-        <b>5.7</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
+        <b>5.7</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Bonus: Harness Tax</a>
         <br><br>
-        <b>5.8</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Bonus: Harness Tax</a>
+        <b>5.8</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
         <br><br>
         <b>5.9</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
       </td>
