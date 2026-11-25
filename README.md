@@ -41,11 +41,9 @@
       <td>
         <b>Project Demo</b>
         <br><br>
-        <b>5.1</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Harness Tax</a>
+        <b>5.1</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
         <br><br>
-        <b>5.2</b> <a href="https://docs.google.com/presentation/d/1CD01fSyVYkD0DVtjmlSDblY_oMfqzpU9YTQnySJY8hA/edit">MCP Servers</a>
-        <br><br>
-        <b>5.3</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
+        <b>5.2</b> <a href="https://docs.google.com/presentation/d/1OGVdd1PvdDwtf0FTcza6ng_PYo6BRBr0t1g-lT4291M/edit">Agentic Patterns</a>
       </td>
     </tr>
     <tr>
@@ -70,9 +68,9 @@
       <td>
         <b>Project Demo</b>
         <br><br>
-        <b>5.4</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
+        <b>5.3</b> <a href="https://docs.google.com/presentation/d/1rwB-bS8uV6_HHuY_HsynuqQaVd6JEBPUsnG_KQdu5Fk/edit">Designing an Attack</a>
         <br><br>
-        <b>5.5</b> <a href="https://docs.google.com/presentation/d/1TR6eNmHhS_T9Vj-f9330r62QNT5ACUvtxq7v7Yug9iU/edit">Cloudflare Security: Mythos</a>
+        <b>5.4</b> <a href="https://docs.google.com/presentation/d/1TR6eNmHhS_T9Vj-f9330r62QNT5ACUvtxq7v7Yug9iU/edit">Cloudflare Security: Mythos</a>
       </td>
     </tr>
     <tr>
@@ -102,11 +100,13 @@
         <b><a href="https://docs.google.com/document/d/1F4v_K3x2RPN0_KIPkGAXHRFB4IJSnziCvT_NEWFCG6U/edit">Project Build</a></b>
       </td>
       <td>
-        <b>5.6</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Bonus: Agentic Security Threats</a>
+        <b>5.5</b> <a href="https://docs.google.com/presentation/d/1lQ6AXR5XrnTtHZ9r-28Zm4xdqItmLxIGC3EpNt-uIZ4/edit">Bonus: Agentic Security Threats</a>
         <br><br>
-        <b>5.7</b> <a href="https://docs.google.com/presentation/d/1-pEJPZdHcbVbnqVlQNV3neEJ358p0STHvu7hRQWfAjg/edit">Bonus: Cloudflare Security: Vulnerability Harness</a>
+        <b>5.6</b> <a href="https://docs.google.com/presentation/d/1-pEJPZdHcbVbnqVlQNV3neEJ358p0STHvu7hRQWfAjg/edit">Bonus: Cloudflare Security: Vulnerability Harness</a>
         <br><br>
-        <b>5.8</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
+        <b>5.7</b> <a href="https://docs.google.com/presentation/d/1R82XvKFZWV7ULNot1_siARAyzAWi6BNDkLGDwFCj20s/edit">Bonus: GitHub Forks &amp; Secrets &amp; Actions</a>
+        <br><br>
+        <b>5.8</b> <a href="https://docs.google.com/presentation/d/1VRBAHnWm9wGRiPv2Sbt2llQnbM-XxDL_zKJdXxagkGA/edit">Bonus: Harness Tax</a>
         <br><br>
         <b>5.9</b> <a href="https://docs.google.com/presentation/d/1O_YufgCicqwyqmBspl7S2SJlvJ3yXtukUl3qS6A7pa8/edit">Bonus: Anki &amp; Certifications</a>
       </td>
